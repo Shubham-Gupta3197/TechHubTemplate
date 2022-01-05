@@ -1,0 +1,6 @@
+[submodule "Java/Java"]
+	path = Java/Java
+	url = https://github.com/Shubham-Gupta3197/TechJava.git
+[submodule "Java/TechJava"]
+	path = Java/TechJava
+	url = https://github.com/Shubham-Gupta3197/TechJava.git
