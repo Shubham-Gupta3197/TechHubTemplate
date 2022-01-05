@@ -7,3 +7,9 @@
 [submodule "Scala/Scala"]
 	path = Scala/Scala
 	url = https://github.com/Shubham-Gupta3197/TechScala.git
+[submodule "Angular/Angular"]
+	path = Angular/Angular
+	url = git@github.com:MukeshAtGit/sample-angular.git
+[submodule "Angular/Example-angular"]
+	path = Angular/Example-angular
+	url = git@github.com:MukeshAtGit/sample-angular.git
