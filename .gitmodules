@@ -10,3 +10,6 @@
 [submodule "Scala/Scala"]
 	path = Scala/Scala
 	url = https://github.com/Shubham-Gupta3197/TechScala.git
+[submodule "python/TechPyhton"]
+	path = python/TechPyhton
+	url = https://github.com/Shubham-Gupta3197/TechPyhton.git
